@@ -1,3 +1,5 @@
-Projeto final sobre a criação de um website de venda de automovéis
-- Integração de um chatbot, para ajudar o utilizador na pesquisa do automovel ideal, programado em python
-- Utiliza
+Este projeto tem como finalidade o desenvolvimento de um website dedicado à venda de automóveis, com enfoque na simplicidade, acessibilidade e inovação. Pretende-se criar uma plataforma intuitiva, que auxilie qualquer utilizador na procura do veículo ideal, respondendo de forma eficaz às suas necessidades. Para tal, será integrado um chatbot, programado em Python, com a função de orientar o utilizador na pesquisa, através de uma interação personalizada e dinâmica.
+
+Será igualmente implementada uma base de dados com informação detalhada sobre diversas marcas e modelos de automóveis, estando ainda por definir o software mais adequado para a sua gestão. De forma a facilitar a manutenção do conteúdo do site, será também desenvolvido um painel de administração (backoffice), permitindo aos responsáveis pela plataforma gerir os dados dos automóveis, marcas e utilizadores de forma eficiente. Ao longo do projeto, será realizado um estudo do mercado automóvel com o intuito de identificar oportunidades de diferenciação face às soluções já existentes, procurando-se constantemente novas ferramentas e abordagens que contribuam para o enriquecimento da plataforma.
+
+Adicionalmente, serão incorporadas funcionalidades de acessibilidade, de forma a garantir uma experiência inclusiva para utilizadores com limitações físicas ou cognitivas. O objetivo central passa por criar um website funcional, acessível e tecnologicamente atual, capaz de facilitar o processo de escolha e aquisição de veículos por parte de qualquer pessoa.
